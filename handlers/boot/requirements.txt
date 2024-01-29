@@ -1,0 +1,5 @@
+boto3==1.34.2
+Pillow==10.1.0
+ydb
+python-dateutil==2.8.2
+python-telegram-bot==20.7

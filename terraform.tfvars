@@ -1,0 +1,5 @@
+cloud_id  = ""
+folder_id = ""
+yandex_queue_url = ""
+bot_token = ""
+token     = ""

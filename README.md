@@ -38,8 +38,8 @@ yc config profile create terraform-sa
 > Задайте конфигурацию профиля:
 ```
 yc config set service-account-key key.json
-yc config set cloud-id b1g71e95h51okii30p25
-yc config set folder-id b1g7rlm620k8mplrm2sk
+yc config set cloud-id b1g71***************
+yc config set folder-id b1g7***************
 ```
 
 > Добавьте аутентификационные данные в переменные окружения:
